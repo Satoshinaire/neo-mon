@@ -32,14 +32,14 @@ src/assets/json/testnet.json
 
 ## Deploy
 
-Neomon is hosted on GitHub pages by publishing to /docs folder. GitHub Settings are configured to use the custom domain: monitor.cityofzion.io
+Neomon is hosted on GitHub pages by publishing to /docs folder. GitHub Settings are configured to use the custom domain: monitor.node.satoshinaire.com
 
 To publish changes
 ```cmd
 gulp publish
 ```
 
-This command will update the /docs folder with a deployable version of the application. When the changes are merged into master branch they will immediately show up on http://monitor.cityofzion.io
+This command will update the /docs folder with a deployable version of the application. When the changes are merged into master branch they will immediately show up on http://monitor.node.satoshinaire.com
 
 
 
