@@ -22,7 +22,7 @@
       "protocol": "http",
       "url": "seed1.node.satoshinaire.com",
       "location": "Sydney",
-      "address": "52.62.238.135",
+      "address": "13.210.125.100",
       "locale": "au",
       "type": "RPC"
     },
@@ -30,7 +30,7 @@
       "protocol": "http",
       "url": "seed2.node.satoshinaire.com",
       "location": "United Kingdom",
-      "address": "35.176.99.68",
+      "address": "35.177.28.238",
       "locale": "uk",
       "type": "RPC"
     },
@@ -38,7 +38,7 @@
       "protocol": "http",
       "url": "seed3.node.satoshinaire.com",
       "location": "South Korea",
-      "address": "13.124.232.166",
+      "address": "13.125.49.111",
       "locale": "kr",
       "type": "RPC"
     },
@@ -46,7 +46,7 @@
       "protocol": "http",
       "url": "seed4.node.satoshinaire.com",
       "location": "Canada",
-      "address": "35.182.205.193",
+      "address": "52.60.199.41",
       "locale": "ca",
       "type": "RPC"
     },
