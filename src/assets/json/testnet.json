@@ -11,6 +11,38 @@
     },
     {
       "protocol": "http",
+      "url": "seed1.node.satoshinaire.com",
+      "location": "Sydney",
+      "address": "52.62.238.135",
+      "locale": "au",
+      "type": "RPC"
+    },
+    {
+      "protocol": "http",
+      "url": "seed2.node.satoshinaire.com",
+      "location": "United Kingdom",
+      "address": "35.176.99.68",
+      "locale": "uk",
+      "type": "RPC"
+    },
+    {
+      "protocol": "http",
+      "url": "seed3.node.satoshinaire.com",
+      "location": "South Korea",
+      "address": "13.124.232.166",
+      "locale": "kr",
+      "type": "RPC"
+    },
+    {
+      "protocol": "http",
+      "url": "seed4.node.satoshinaire.com",
+      "location": "Canada",
+      "address": "35.182.205.193",
+      "locale": "ca",
+      "type": "RPC"
+    },
+    {
+      "protocol": "http",
       "url": "seed1.neo.org",
       "location": "China",
       "address": "139.219.226.107",
